@@ -53,7 +53,7 @@
 
 ---
 
-# 💻 Tech Stack & Skills
+# 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,mysql,git,github,linux,vscode,postman,tensorflow,pytorch,opencv,bash" />
@@ -61,7 +61,7 @@
 
 ---
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c" height="55"/>
@@ -73,15 +73,9 @@
 <img src="https://skillicons.dev/icons?i=bash" height="55"/>
 </p>
 
-- C / C++
-- Python
-- JavaScript
-- HTML5 & CSS3
-- Bash Scripting
-
 ---
 
-## 🌐 Web Development
+## 🌐 Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react" height="55"/>
@@ -91,15 +85,9 @@
 <img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
 </p>
 
-- Responsive Web Design
-- REST API Integration
-- Frontend Development
-- Backend Basics
-- CRUD Operations
-
 ---
 
-## 🤖 AI / ML / Data Science
+## 🤖 AI / ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
@@ -107,18 +95,9 @@
 <img src="https://skillicons.dev/icons?i=opencv" height="55"/>
 </p>
 
-- Machine Learning
-- Deep Learning Basics
-- Computer Vision
-- Data Analysis
-- NumPy & Pandas
-- Model Training
-- Emotion Recognition Systems
-- AI Automation
-
 ---
 
-## 🔐 Cybersecurity & Networking
+## 🔐 Cybersecurity
 
 <p>
 
@@ -134,91 +113,13 @@
 
 </p>
 
-### Skills
-- Ethical Hacking
-- Penetration Testing
-- Vulnerability Assessment
-- SQL Injection Testing
-- Packet Analysis
-- Network Scanning
-- Linux Security
-- Web Security Testing
-- OSINT Basics
-- Digital Forensics Basics
-- Capture The Flag (CTF)
-
 ---
 
-## 🛢️ Databases
+## 🛢️ Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" height="55"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux,postman" height="55"/>
 </p>
-
-- SQL Queries
-- Database Design
-- CRUD Operations
-- Database Connectivity
-
----
-
-## ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" height="55"/>
-</p>
-
-- Git & GitHub
-- Linux Environment
-- API Testing
-- Debugging
-- Command Line Usage
-- Version Control
-
----
-
-## 📚 Core Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Operating Systems Basics
-- Computer Networks
-- DBMS
-- Problem Solving
-- Software Development Fundamentals
-
----
-
-# 🚀 Featured Projects
-
-## 🔐 Password Strength Checker with Breach Detection
-- Password strength analysis
-- Breached password checking
-- Export security reports
-
----
-
-## 🛡️ SQL Injection Detector
-- Detects SQL Injection vulnerabilities
-- Networking & Security focused project
-
----
-
-## 🤖 Emotion Recognition AI (SENSEI Project)
-- AI-powered emotion recognition system
-- Built using OpenCV & Machine Learning
-
----
-
-## 🎮 Gamers Arena Dashboard
-- Gaming platform dashboard
-- Built with React, JavaScript & SQL
-
----
-
-## ⚖️ BMI Calculator Web App
-- Responsive BMI Calculator
-- Built using React
 
 ---
 
@@ -294,7 +195,7 @@
 # 💖 Support
 
 <p align="center">
-⭐️ If you like my projects, consider giving them a star!
+⭐️ If you like my profile, consider following me and checking out my repositories!
 </p>
 
 ---
